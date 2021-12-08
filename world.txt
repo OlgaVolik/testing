@@ -1,2 +1,8 @@
 Hello everyone!!!
 123
+C:\Users\Lenovo\Downloads\GitHub>git branch -M main
+
+C:\Users\Lenovo\Downloads\GitHub>git remote add origin https://github.com/OlgaVolik/testing.git
+
+C:\Users\Lenovo\Downloads\GitHub>git push -u origin main
+try again
